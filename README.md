@@ -19,3 +19,17 @@ This is PwC Virtual Case Experience. PwC has a client PhoneNow, a Telecom Compan
 
 
 ![Screenshot (81)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/b9e8780f-4672-442c-bd43-2f5b2dfbad91)
+
+
+# Task 4 - Diversity & Inclusion
+
+![Screenshot (82)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/aee3f346-55bb-4ee9-ad30-aaa6a31c8e00)
+
+
+![Screenshot (83)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/2aa237bf-5bc7-4a81-ac24-af95fdc50db7)
+
+
+![Screenshot (84)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/c6b3badd-08eb-4a22-bda6-89d957e3e807)
+
+
+![Screenshot (85)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/bd7b0b9a-137c-4f28-b3e2-d165317becea)

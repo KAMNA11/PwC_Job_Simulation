@@ -65,3 +65,8 @@ Clients Requirements :-
 #  Certificate
 
 [Certificate](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Programme/blob/main/Certificate.pdf)
+
+
+# Programme Detail
+
+[Programme Detail](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience)

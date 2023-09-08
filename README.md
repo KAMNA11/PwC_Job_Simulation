@@ -1,4 +1,4 @@
-# PwC-Forage_Virtual_Internship_Programme
+# PwC-Forage_Virtual_Case_Experience_Programme
 
 # Project Overview
 A telecom firm called "PhoneNow" is a client of PwC. They require assistance in order to gain knowledge from data so they can make meaningful decisions. 

@@ -1,7 +1,7 @@
-# PwC-Forage_Virtual_Case_Experience_Programme
+# PwC Switzerland Power BI Job Simulation on Forage 
 
-# Project Overview
-A telecom firm called "PhoneNow" is a client of PwC. They require assistance in order to gain knowledge from data so they can make meaningful decisions. 
+## Project Overview
+A telecom firm called "PhoneNow" is a client of PwC. They require assistance to gain valuable insights and make informed decisions that drive business growth and customer satisfaction. 
 
 Clients Requirements :-
 * Create a dashboard to acquire insights into call centre trends 
@@ -61,12 +61,14 @@ Clients Requirements :-
 
 ![Screenshot (85)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/bd7b0b9a-137c-4f28-b3e2-d165317becea)
 
+#
+
 
 #  Certificate
 
 [Certificate](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Programme/blob/main/Certificate.pdf)
 
 
-# Programme Detail
+# Project Detail
 
 [Programme Detail](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience)

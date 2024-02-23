@@ -74,7 +74,6 @@ Clients Requirements :-
 8. January has recorded highest no. of calls and issues resolved.
 9. In weekly trends Monday has highest volume of inquiries with 770 calls followed by Saturday with 768 calls 
 
-
 #  Certificate
 
 [Certificate](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Programme/blob/main/Certificate.pdf)

@@ -16,7 +16,8 @@ Clients Requirements :-
 * Average speed of answer
 * Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-![Screenshot (77)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/d5baac60-ceb0-46a8-b089-4e5f0f40d77c)
+![Screenshot (179)](https://github.com/KAMNA11/PwC-Virtual_Internship_Case_Experience_Programme/assets/136696822/7c33b7cd-ed27-4f82-8a88-c793b2770c9d)
+
 
 ![Screenshot (66)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/b89ce834-97b8-4a2b-a2d4-2eac55f9114f)
 

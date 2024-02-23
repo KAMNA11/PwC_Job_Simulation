@@ -8,8 +8,8 @@ Clients Requirements :-
 * Create a new dashboard to know about customer churn 
 * HR department's diversity and inclusion dashboard
   
-# Task 2 - Call Center Trends
-# KPIs
+## Task 2 - Call Center Trends
+### KPIs
 * Overall customer satisfaction
 * Overall calls answered/abandoned
 * Calls by time
@@ -20,8 +20,8 @@ Clients Requirements :-
 
 ![Screenshot (66)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/b89ce834-97b8-4a2b-a2d4-2eac55f9114f)
 
-# Task 3 - Churn Analysis
-# KPIs
+## Task 3 - Churn Analysis
+### KPIs
 * Customers left within month
 * Various Services each customer has signed up for
 * Customers Account Information - Contract, Payment Method, Monthly & Yearly Charges etc
@@ -40,8 +40,8 @@ Clients Requirements :-
 ![Screenshot (81)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/b9e8780f-4672-442c-bd43-2f5b2dfbad91)
 
 
-# Task 4 - Diversity & Inclusion
-# KPIs
+## Task 4 - Diversity & Inclusion
+### KPIs
 * No. of men & women
 * Employees Promoted
 * Employees Hired
@@ -61,7 +61,17 @@ Clients Requirements :-
 
 ![Screenshot (85)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/bd7b0b9a-137c-4f28-b3e2-d165317becea)
 
-#
+# Insights
+## Call Centre Insights 
+1. Average Customer Satisfaction rating is 3.40
+2. Total Calls - 5000, Total calls answered - 4054, Total calls abondaned - 946
+3. Average Speed of answering a call - 67.52 secs
+4. Average calls per day - 56
+5. Agent Becky has performed better than other agents with average speed of answering a call is 65.33 secs and agent Joe has lowest speed of answering a call that is 70.99 secs
+6. Analysis of customer contact reveals that streaming services generate the highest volume of inquiries, followed by inquiries regarding payments and technical support.
+7. Although more calls are answered than not answered, the percentage of resolved calls (72.92%) is lower than the percentage of answered calls (81.08%).
+8. January has recorded highest no. of calls and issues resolved.
+9. In weekly trends Monday has highest volume of inquiries with 770 calls followed by Saturday with 768 calls 
 
 
 #  Certificate

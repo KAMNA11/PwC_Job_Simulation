@@ -81,4 +81,4 @@ Clients Requirements :-
 
 # Project Detail
 
-[Programme Detail](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience)
+[Project Detail](https://www.theforage.com/virtual-internships/prototype/a87GpgE6tiku7q3gu/PwC-Power-BI-Virtual-Case-Experience)

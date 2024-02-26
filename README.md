@@ -54,7 +54,8 @@ Clients Requirements :-
 ![Screenshot (82)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/aee3f346-55bb-4ee9-ad30-aaa6a31c8e00)
 
 
-![Screenshot (83)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/2aa237bf-5bc7-4a81-ac24-af95fdc50db7)
+![Screenshot (180)](https://github.com/KAMNA11/PwC_Job_Simulation/assets/136696822/4e2869a2-dcc2-48f1-b60e-1902cf36a0fa)
+
 
 
 ![Screenshot (84)](https://github.com/KAMNA11/PwC-Forage_Virtual_Internship_Program/assets/136696822/c6b3badd-08eb-4a22-bda6-89d957e3e807)
